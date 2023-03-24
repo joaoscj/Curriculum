@@ -94,3 +94,9 @@ li {
 .main {
     padding-left: 15px;
 }
+
+#pfp {
+    border-radius: 90px;
+    margin-top: 17px;
+    margin-right: 10px;
+}
