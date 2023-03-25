@@ -13,6 +13,7 @@
     list-style: none;
     letter-spacing: 2px;
     font-weight: 700;
+    flex-wrap: wrap;
 }
 
 .ul__nav * {
