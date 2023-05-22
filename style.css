@@ -44,8 +44,8 @@
 .ul__nav a::before {
     right: 0;
     top: 0;
-    border-right: 3px solid rgb(0, 74, 172);
-    border-top: 3px solid rgb(0, 74, 172);
+    border-right: 3px solid #fff;
+    border-top: 3px solid #fff;
     -webkit-transform: translate(100%, -50%);
     transform: translate(100%, 50%);
 }
@@ -53,8 +53,8 @@
 .ul__nav a::after {
     left: 0;
     bottom: 0;
-    border-left: 3px solid rgb(0, 74, 172);
-    border-bottom: 3px solid rgb(0, 74, 172);
+    border-left: 3px solid #fff;
+    border-bottom: 3px solid #fff;
     -webkit-transform: translate(100%, -50%);
     transform: translate(100%, 50%);
 }
